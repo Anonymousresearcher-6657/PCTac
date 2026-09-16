@@ -1,0 +1,29 @@
+{
+  "evidence": "Figures reproduced from the anonymous manuscript. PDF identity metadata removed. Source version records retained privately.",
+  "assets": [
+    {
+      "name": "teaser",
+      "transform": "Remove PDF document/XMP identity metadata from website copy; Poppler PNG render, longest edge 2200 px. Manuscript source unchanged."
+    },
+    {
+      "name": "sensor-design",
+      "transform": "Remove PDF document/XMP identity metadata from website copy; Poppler PNG render, longest edge 2200 px. Manuscript source unchanged."
+    },
+    {
+      "name": "learning-system",
+      "transform": "Remove PDF document/XMP identity metadata from website copy; Poppler PNG render, longest edge 2200 px. Manuscript source unchanged."
+    },
+    {
+      "name": "object-hue-fields",
+      "transform": "Remove PDF document/XMP identity metadata from website copy; Poppler PNG render, longest edge 2200 px. Manuscript source unchanged."
+    },
+    {
+      "name": "successful-rollouts",
+      "transform": "Remove PDF document/XMP identity metadata from website copy; Poppler PNG render, longest edge 2200 px. Manuscript source unchanged."
+    },
+    {
+      "name": "failure-cases",
+      "transform": "Remove PDF document/XMP identity metadata from website copy; Poppler PNG render, longest edge 2200 px. Manuscript source unchanged."
+    }
+  ]
+}
