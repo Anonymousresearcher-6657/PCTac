@@ -1,5 +1,602 @@
 {
   "evidence": "Figures reproduced from the anonymous manuscript. PDF identity metadata removed. Source version records retained privately.",
+  "displayTransform": "SVG viewBox windows only; original image pixels and scientific data unchanged.",
+  "panelWindows": [
+    {
+      "source": "teaser",
+      "normalizedWindow": [
+        0.005,
+        0.018,
+        0.303,
+        0.473
+      ]
+    },
+    {
+      "source": "teaser",
+      "normalizedWindow": [
+        0.005,
+        0.51,
+        0.303,
+        0.471
+      ]
+    },
+    {
+      "source": "teaser",
+      "normalizedWindow": [
+        0.321,
+        0.018,
+        0.332,
+        0.963
+      ]
+    },
+    {
+      "source": "teaser",
+      "normalizedWindow": [
+        0.665,
+        0.018,
+        0.331,
+        0.963
+      ]
+    },
+    {
+      "source": "sensor-design",
+      "normalizedWindow": [
+        0.016,
+        0.015,
+        0.96,
+        0.555
+      ]
+    },
+    {
+      "source": "sensor-design",
+      "normalizedWindow": [
+        0.006,
+        0.575,
+        0.501,
+        0.419
+      ]
+    },
+    {
+      "source": "sensor-design",
+      "normalizedWindow": [
+        0.516,
+        0.575,
+        0.271,
+        0.419
+      ]
+    },
+    {
+      "source": "sensor-design",
+      "normalizedWindow": [
+        0.795,
+        0.716,
+        0.183,
+        0.225
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.061,
+        0.114,
+        0.108,
+        0.184
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.061,
+        0.325,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.061,
+        0.542,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.061,
+        0.787,
+        0.108,
+        0.169
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.178,
+        0.114,
+        0.108,
+        0.184
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.178,
+        0.325,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.178,
+        0.542,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.178,
+        0.787,
+        0.108,
+        0.169
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.29500000000000004,
+        0.114,
+        0.108,
+        0.184
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.29500000000000004,
+        0.325,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.29500000000000004,
+        0.542,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.29500000000000004,
+        0.787,
+        0.108,
+        0.169
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.41200000000000003,
+        0.114,
+        0.108,
+        0.184
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.41200000000000003,
+        0.325,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.41200000000000003,
+        0.542,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.41200000000000003,
+        0.787,
+        0.108,
+        0.169
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.529,
+        0.114,
+        0.108,
+        0.184
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.529,
+        0.325,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.529,
+        0.542,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.529,
+        0.787,
+        0.108,
+        0.169
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.6460000000000001,
+        0.114,
+        0.108,
+        0.184
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.6460000000000001,
+        0.325,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.6460000000000001,
+        0.542,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.6460000000000001,
+        0.787,
+        0.108,
+        0.169
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.7630000000000001,
+        0.114,
+        0.108,
+        0.184
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.7630000000000001,
+        0.325,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.7630000000000001,
+        0.542,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.7630000000000001,
+        0.787,
+        0.108,
+        0.169
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.8800000000000001,
+        0.114,
+        0.108,
+        0.184
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.8800000000000001,
+        0.325,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.8800000000000001,
+        0.542,
+        0.108,
+        0.2
+      ]
+    },
+    {
+      "source": "object-hue-fields",
+      "normalizedWindow": [
+        0.8800000000000001,
+        0.787,
+        0.108,
+        0.169
+      ]
+    },
+    {
+      "source": "learning-system",
+      "normalizedWindow": [
+        0.005,
+        0.01,
+        0.313,
+        0.977
+      ]
+    },
+    {
+      "source": "learning-system",
+      "normalizedWindow": [
+        0.327,
+        0.01,
+        0.669,
+        0.977
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.048,
+        0.089,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.28200000000000003,
+        0.089,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.516,
+        0.089,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.7500000000000001,
+        0.089,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.048,
+        0.377,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.28200000000000003,
+        0.377,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.516,
+        0.377,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.7500000000000001,
+        0.377,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.048,
+        0.665,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.28200000000000003,
+        0.665,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.516,
+        0.665,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "successful-rollouts",
+      "normalizedWindow": [
+        0.7500000000000001,
+        0.665,
+        0.234,
+        0.249
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.047,
+        0.086,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.281,
+        0.086,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.515,
+        0.086,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.7490000000000001,
+        0.086,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.047,
+        0.38,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.281,
+        0.38,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.515,
+        0.38,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.7490000000000001,
+        0.38,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.047,
+        0.673,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.281,
+        0.673,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.515,
+        0.673,
+        0.234,
+        0.25
+      ]
+    },
+    {
+      "source": "failure-cases",
+      "normalizedWindow": [
+        0.7490000000000001,
+        0.673,
+        0.234,
+        0.25
+      ]
+    }
+  ],
   "assets": [
     {
       "name": "teaser",
