@@ -1,0 +1,237 @@
+{
+  "schemaVersion": 1,
+  "note": "Qualitative presentation derivatives; original recordings unchanged. Playback speeds labeled. Source mapping retained privately.",
+  "items": [
+    {
+      "id": "fabrication-01",
+      "title": "01 · Spray",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-01.mp4",
+      "poster": "./project/media/fabrication-01.jpg",
+      "description": "Fabrication storyboard step 01; retimed 1.5× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 1.5× · 10 s",
+      "sha256": "1aa4a7d7f2a786a27b03e1eee8d863698b96961c5918303d0825ddecc1151eaa",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-02",
+      "title": "02 · Gel",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-02.mp4",
+      "poster": "./project/media/fabrication-02.jpg",
+      "description": "Fabrication storyboard step 02; retimed 5.4× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 5.4× · 10 s",
+      "sha256": "a3e78d9a268517e32cb1a9be8200321130a7aefbbc7021953aaeb5b87779eb41",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-03",
+      "title": "03 · Gel",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-03.mp4",
+      "poster": "./project/media/fabrication-03.jpg",
+      "description": "Fabrication storyboard step 03; retimed 5.8× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 5.8× · 10 s",
+      "sha256": "08fc4d201b2058c29b1774f2053d1d6a7f18d1ceec6d567af71783feb9c9a71d",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-04",
+      "title": "04 · Gel",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-04.mp4",
+      "poster": "./project/media/fabrication-04.jpg",
+      "description": "Fabrication storyboard step 04; retimed 4.23333× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 4.23333× · 10 s",
+      "sha256": "0747c3cd0230f6bf77305c3c1c6aa030c982b0810f570c438b1d5c26e88bfd42",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-05",
+      "title": "05 · Vacuum",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-05.mp4",
+      "poster": "./project/media/fabrication-05.jpg",
+      "description": "Fabrication storyboard step 05; retimed 8.13× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 8.13× · 10 s",
+      "sha256": "d68476419e671a8344e78119c02d83ea8106660553a1549827c3de2d3cc576af",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-06",
+      "title": "06 · Pouring",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-06.mp4",
+      "poster": "./project/media/fabrication-06.jpg",
+      "description": "Fabrication storyboard step 06; retimed 5.9× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 5.9× · 10 s",
+      "sha256": "ad7207beba217902ab8a8e742dd751e4112ace4a19e30b48a833dc358d295a9b",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-07",
+      "title": "07 · Pouring",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-07.mp4",
+      "poster": "./project/media/fabrication-07.jpg",
+      "description": "Fabrication storyboard step 07; retimed 2.7× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 2.7× · 10 s",
+      "sha256": "3715e67f2072e0a50d9a154725c7856e282a89b1228d63824d5ae1eae4da6d9c",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-08",
+      "title": "08 · Sticking",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-08.mp4",
+      "poster": "./project/media/fabrication-08.jpg",
+      "description": "Fabrication storyboard step 08; retimed 1.3× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 1.3× · 10 s",
+      "sha256": "cc47f9f105fa5def9d9b66747be6d22b044c4fa9ccd53f4359c440b8b97c8b7d",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-09",
+      "title": "09 · Sticking",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-09.mp4",
+      "poster": "./project/media/fabrication-09.jpg",
+      "description": "Fabrication storyboard step 09; retimed 2× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 2× · 10 s",
+      "sha256": "1b0e7cb6a160d486b9f663128e135120fdf1f9561dcc8d412f1803648fd2f534",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-10",
+      "title": "10 · Sticking",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-10.mp4",
+      "poster": "./project/media/fabrication-10.jpg",
+      "description": "Fabrication storyboard step 10; retimed 5.1× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 5.1× · 10 s",
+      "sha256": "ef2f3b188e92c88290a521032bfb37433f1bb57159400454d1f33e3c8b119c38",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-11",
+      "title": "11 · Paint",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-11.mp4",
+      "poster": "./project/media/fabrication-11.jpg",
+      "description": "Fabrication storyboard step 11; retimed 9.7× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 9.7× · 10 s",
+      "sha256": "33203e5c54ea457a56dcb5f10ac4cfc7820a587019b06215a3afa3dc2abb15f3",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-12",
+      "title": "12 · Paint",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-12.mp4",
+      "poster": "./project/media/fabrication-12.jpg",
+      "description": "Fabrication storyboard step 12; retimed 3.8× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 3.8× · 10 s",
+      "sha256": "ac2b816263431fb3a664669f0b9f22121926f518e7d931ee8d4e5700117d71aa",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-13",
+      "title": "13 · Paint",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-13.mp4",
+      "poster": "./project/media/fabrication-13.jpg",
+      "description": "Fabrication storyboard step 13; retimed 4.5× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 4.5× · 10 s",
+      "sha256": "787295964926e40247fd83070a2455c242512cc536ab4aafb33279d8b9378ec2",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-14",
+      "title": "14 · Paint",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-14.mp4",
+      "poster": "./project/media/fabrication-14.jpg",
+      "description": "Fabrication storyboard step 14; retimed 8× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 8× · 10 s",
+      "sha256": "d067f479404654de94bb0b5d35f85aa95a189c51d5d0710bcbf0215e5bafecce",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-15",
+      "title": "15 · Paint",
+      "kind": "fabrication",
+      "video": "./project/media/fabrication-15.mp4",
+      "poster": "./project/media/fabrication-15.jpg",
+      "description": "Fabrication storyboard step 15; retimed 7.16× from the source segment. Visual process preview, not a real-time record.",
+      "playbackLabel": "Retimed 7.16× · 10 s",
+      "sha256": "128399d633ec1e8d57431cbb817b884281af4d6b710705ffb9267a0389e80c14",
+      "durationSeconds": 10
+    },
+    {
+      "id": "fabrication-painting-detail",
+      "title": "Painting detail",
+      "kind": "supplement",
+      "video": "./project/media/fabrication-painting-detail.mp4",
+      "poster": "./project/media/fabrication-painting-detail.jpg",
+      "description": "Additional painting segment, retimed from 33 s to 10 s; not part of the numbered storyboard.",
+      "playbackLabel": "Retimed 3.3× · 10 s",
+      "sha256": "85d4f5a35f917045b0528c7cef84a770fbdf36fd5c6bc7f756ad411a1c21c0d5",
+      "durationSeconds": 10
+    },
+    {
+      "id": "robot-wiping",
+      "title": "Whiteboard wiping",
+      "kind": "robot",
+      "video": "./project/media/robot-wiping.mp4",
+      "poster": "./project/media/robot-wiping.jpg",
+      "description": "Whiteboard recording 341–359 s; three camera views composited for qualitative inspection, not camera-sync or task-success evidence.",
+      "playbackLabel": "Original speed · three-view preview",
+      "sha256": "09efa6b0596a81a602bff4c551cb95b7b861e6926b6f57c5414e5363e2392e7f",
+      "durationSeconds": 18
+    },
+    {
+      "id": "robot-insertion",
+      "title": "Test-tube insertion",
+      "kind": "robot",
+      "video": "./project/media/robot-insertion.mp4",
+      "poster": "./project/media/robot-insertion.jpg",
+      "description": "PC self episode 000; three episode-aligned camera exports. Qualitative deployment footage only; exposure synchronization and outcome are not inferred.",
+      "playbackLabel": "Original speed · three-view preview",
+      "sha256": "dc5603296ad52e7263a9f8e66c20558bedd51940afd5e53db7e350bd0f6026b3",
+      "durationSeconds": 25.333
+    },
+    {
+      "id": "robot-perturbed",
+      "title": "Test-tube perturbed",
+      "kind": "robot",
+      "video": "./project/media/robot-perturbed.mp4",
+      "poster": "./project/media/robot-perturbed.jpg",
+      "description": "PC perturbed episode 033; label inherited from source export. Qualitative footage only; per-episode perturbation, exposure synchronization, and outcome are not independently verified.",
+      "playbackLabel": "Original speed · three-view preview",
+      "sha256": "c0f15d208940e45f31c39661dd37787cf5d06c0c7e067870df9ee55f712db79e",
+      "durationSeconds": 25.6
+    },
+    {
+      "id": "robot-wiping-earlier",
+      "title": "Whiteboard wiping · earlier segment",
+      "kind": "supplement",
+      "video": "./project/media/robot-wiping-earlier.mp4",
+      "poster": "./project/media/robot-wiping-earlier.jpg",
+      "description": "Whiteboard recording 111–126 s; qualitative three-view preview only, with no sync or outcome claim.",
+      "playbackLabel": "Original speed · 111–126 s",
+      "sha256": "650ddee2df5612b16e5ac55146afa5fd934526ffc0a1695f5ab4249d4ed5e688",
+      "durationSeconds": 15
+    },
+    {
+      "id": "optical-response-roi",
+      "title": "Optical response · cropped ROI",
+      "kind": "response",
+      "video": "./project/media/optical-response-roi.mp4",
+      "poster": "./project/media/optical-response-roi.jpg",
+      "description": "Qualitative optical response in a cropped tactile ROI. This footage is not a force or pressure calibration.",
+      "playbackLabel": "Original speed · cropped ROI",
+      "sha256": "309af2f805bfc5828ea9f9a37e41a98f2f88e21561c077c18c6f84f046304daf",
+      "durationSeconds": 58.5
+    }
+  ]
+}
