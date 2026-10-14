@@ -212,17 +212,6 @@
       "durationSeconds": 25.6
     },
     {
-      "id": "robot-wiping-earlier",
-      "title": "Whiteboard wiping · earlier segment",
-      "kind": "supplement",
-      "video": "./project/media/robot-wiping-earlier-roi.mp4",
-      "poster": "./project/media/robot-wiping-earlier-roi.jpg",
-      "description": "Whiteboard recording 111–126 s; qualitative three-view preview only, with no sync or outcome claim. Tactile panel only: cropped to source pixels x=120..219, y=182..301; aspect-preserving fit with black side bars. Global and wrist panels are uncropped.",
-      "playbackLabel": "Original speed · 111–126 s",
-      "sha256": "6bb728df2d076f638e729bf5ba4f7169725029b05a67210248a8d44348220c96",
-      "durationSeconds": 15
-    },
-    {
       "id": "optical-response-roi",
       "title": "Optical response · cropped ROI",
       "kind": "response",
